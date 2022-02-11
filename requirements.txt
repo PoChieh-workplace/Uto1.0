@@ -1,0 +1,13 @@
+discord.py
+requests
+beautifulsoup4
+fake_useragent
+flask
+youtube_dl
+facebook-sdk
+discord-components
+python-dotenv
+ffmpeg-python
+ffmpeg
+psutil
+PyNaCl
